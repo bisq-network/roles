@@ -20,6 +20,7 @@ git commit -m"Ignore Vim swap files"
 echo '# bisq network roles' > README.md
 git add README.md
 git commit -m"Add placeholder README"
+git push
 
 # Delete default labels
 ghi label --list | xargs -Ilname echo ghi label -D lname
