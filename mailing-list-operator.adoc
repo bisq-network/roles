@@ -1,0 +1,28 @@
+= Mailing list operator
+:toc:
+:toclevels: 4
+:toc-placement!:
+
+Issue: https://github.com/bisq-network/roles/issues/26[bisq-network/roles#26]
+
+toc::[]
+
+NOTE: This specification is just a placeholder for now. See the linked issue above for status.
+
+== Purpose
+
+
+== Motivation
+
+
+== Privileges
+
+
+== General Requirements
+
+=== Bonding
+The operator MUST post a bond of **TBD** BSQ to assume this role.
+
+
+== Special Requirements
+
