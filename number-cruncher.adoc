@@ -1,0 +1,3 @@
+= Number Cruncher
+
+Placeholder. See https://github.com/bisq-network/roles/issues/40 and https://github.com/bisq-network/numbers.
