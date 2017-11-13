@@ -1,3 +1,32 @@
-= Number Cruncher
+= Data Analyst
+:toc:
+:toclevels: 4
+:toc-placement!:
 
-Placeholder. See https://github.com/bisq-network/roles/issues/40 and https://github.com/bisq-network/numbers.
+Issue: https://github.com/bisq-network/roles/issues/40[bisq-network/roles#40]
+
+toc::[]
+
+== Purpose
+To provide a single, authoritative and trustworthy source for all data that is communicated about the Bisq network and client. Additionally this role is responsible to re-evalute Bisq's Key Performance Indicators (KPIs) on an on-going basis to enable measurement of success and failure in all experiments and changes to the platform.
+
+== Motivation
+Based on a https://docs.google.com/spreadsheets/d/1o-I5fAx7DJRVqYjW8fPbo0ztlGIhIZ1EM2iLc5aEHnA/edit?usp=sharing[reporting sheet] by https://github.com/ripcurlx[@ripcurlx], we found out that the current numbers visualized by https://coin.dance/volume/bisq[coin.dance] and communicated by us were even better than we thought. This was the kickstarter to define and collect our most important metrics (KPIs) in a single place.
+
+== Privileges
+The analyst will have admininstrative access to the Google Analytics account of https://bisq.network[bisq.network], the https://docs.google.com/spreadsheets/d/1o-I5fAx7DJRVqYjW8fPbo0ztlGIhIZ1EM2iLc5aEHnA/edit?usp=sharing[Google reporting sheet] and https://piktochart.com[Piktochart account] for monthly reporting.
+
+== General Requirements
+The operator MUST:
+
+ - post a bond of **TBD** BSQ to assume this role
+ - maintain this role specification document
+
+== Special Requirements
+
+The operator MUST:
+
+ - monitor the KPIs on a daily basis and report unusual behavior in the #analytics Slack channel
+ - create a monthly infographic for the https://github.com/bisq-network/newsletter[bisq newsletter]
+ - respond promptly to any questions / requests in the #analytics Slack channel (recommendation: set your Slack notification preferences for that channel to be notified on "all new messages" so you don’t miss anything)
+ - acknowledge / respond promptly to any issues submitted to the https://github.com/bisq-network/analytics[bisq-network/analytics] GitHub repository
