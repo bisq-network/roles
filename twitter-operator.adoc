@@ -40,6 +40,8 @@ The operator SHOULD post a monthly report in the form of a comment on the linked
  - Screenshot(s) from Twitter Analytics as appropriate;
  - Operator commentary
 
+An example of this kind of report can be seen https://github.com/bisq-network/roles/issues/21#issuecomment-348463070[here].
+
 === Collaboration
 All tweets to and from the account are posted in the `#twitter` channel of the bisq Slack team. The operator SHOULD discuss tweets with other contributors in this channel, especially when in doubt whether or how to respond. If necessary, the operator MAY escalate specific tweets to specific contributors by reaching out to them directly. In any case, the operator SHOULD use their discretion in collaborating or escalating tweets in whatever way they see fit, so as to ensure an accurate and timely response to questions or comments about bisq on Twitter.
 
