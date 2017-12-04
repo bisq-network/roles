@@ -1,0 +1,13 @@
+= Growth maintainer
+:toc:
+:toclevels: 4
+:toc-placement!:
+
+Issue: https://github.com/bisq-network/roles/issues/42
+
+toc::[]
+
+ - has admin access to https://github.com/bisq-network/growth repository
+ - must get and respond to notifications in the #growth Slack channel in a timely fashion
+ - must manage issues in the growth repository, organize ideas and experiments, facilitate team calls, etc
+ - should do monthly reporting as comments on role issue 
