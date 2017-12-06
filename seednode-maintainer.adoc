@@ -1,0 +1,60 @@
+= Seednode Maintainer
+:toc:
+:toclevels: 4
+:toc-placement!:
+
+Issue: https://github.com/bisq-network/roles/issues/21[bisq-network/roles#21]
+
+toc::[]
+
+== Purpose
+
+
+== Motivation
+
+
+== Privileges
+
+
+== General Requirements
+
+=== Bonding
+The operator MUST post a bond of **TBD** BSQ to assume this role.
+
+=== Reporting
+The operator SHOULD post a monthly report in the form of a comment on the linked GitHub issue for this role. The report SHOULD include (but is not limited to):
+
+ - A recap of the statistics available in Twitter Analytics;
+ - Screenshot(s) from Twitter Analytics as appropriate;
+ - Operator commentary
+
+An example of this kind of report can be seen https://github.com/bisq-network/roles/issues/21#issuecomment-348463070[here].
+
+=== Collaboration
+All tweets to and from the account are posted in the `#twitter` channel of the bisq Slack team. The operator SHOULD discuss tweets with other contributors in this channel, especially when in doubt whether or how to respond. If necessary, the operator MAY escalate specific tweets to specific contributors by reaching out to them directly. In any case, the operator SHOULD use their discretion in collaborating or escalating tweets in whatever way they see fit, so as to ensure an accurate and timely response to questions or comments about bisq on Twitter.
+
+=== Compensation
+The operator MUST issue monthly BSQ compensation requests to cover the cost of their labor. For convenience, such reports MAY be kept concise, simply linking to the current month's report (as per link:#reporting[Reporting] above).
+
+=== Automation
+The operator MAY automate the fulfillment of any of the requirements in this document, as they see fit, so long as such automation does not degrade the quality of content coming out of the account.
+
+Note that any efforts to automate the operation of the account SHOULD be submitted as a separate compensation request, i.e. SHOULD NOT be grouped in with the operator's usual monthly compensation requests as described in link:#compensation[Compensation] above.
+
+=== Delegation
+In case of extended absence not exceeding one month, the operator MAY delegate their responsibilities to another individual of their own choosing ("the delegate"). If the operator is unable to attend to their responsibilities during any such absence, then they MUST delegate their responsibilities as follows.
+
+The operator MUST mention that delegation is occurring, and for what duration, in a comment on this role's linked GitHub issue.
+
+The delegate MUST carefully read and adhere to all requirements in this document, including 2FA setup and changing the "operated by @individual" statement in the account bio. Failure to fulfill requirements may result in the partial or complete confiscation of the operator's BSQ bonding.
+
+The delegate MAY issue a compensation request for their services rendered.
+
+=== Termination
+The account operator MAY terminate their participation in this role by giving notice at least one month in advance.
+
+Notice of termination MUST be given in a comment on this role's linked GitHub issue. The reason for this requirement is to ensure that other individuals interested in playing this role can subscribe to that GitHub issue and know that they will hear about it if and when the current operator decides to leave.
+
+
+== Special Requirements
+
