@@ -1,1 +1,8 @@
-= bisq network roles
+= Bisq Network Roles
+
+1. Create **New File**
+1. **Name** Your File according to the defined syntax (eg. "role-maintainer.adoc")
+1. **Edi*t** Your Role according to the Template
+1. **Propose** New File
+1. You're done? Then you are ready to Create a **Pull Request**
+1. Wait for Confirmation
