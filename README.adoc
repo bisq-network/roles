@@ -1,4 +1,5 @@
 = Bisq Network Roles
+
 This repository gives you a transparent overview about all current roles within the Bisq Network. It provides the viewer with details about the purpose, motivation, privileges, requirements and responsibilities of all roles. This will ensure clarity about ones own role, help identifying other roles and facitilitate the compensation process.
 
 The **owner of the role** is responsible for **creating and maintaining** of his/her **role description**. 
