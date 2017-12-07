@@ -31,18 +31,18 @@ The owner of a given role is responsible for creating and maintaining their role
 |Bitcointalk Bisq Thread Operator
 |https://github.com/bisq-network/roles/blob/master/bitcointalk-bisq-thread-operator.adoc[bitcointalk-bisq-thread-operator.adoc]
 |https://github.com/bisq-network/roles/issues/37[#37]
-|TBD
+|500
 
 |Botcoinj Maintainer
 |https://github.com/bisq-network/roles/blob/master/bitcoinj-maintainer.adoc[bitcoinj-maintainer.adoc]
 |https://github.com/bisq-network/roles/issues/8[#8]
-|TBD
+|5000
 
 
 |BSQ Explorer Operator and Maintainer
 |https://github.com/bisq-network/roles/blob/master/bsq-explorer-operator-and-maintainer.adoc[bsq-explorer-operator-and-maintainer.adoc]
 |https://github.com/bisq-network/roles/issues/11[#11]
-|TBD
+|2000
 
 |BSQ Record Keeper
 |https://github.com/bisq-network/roles/blob/master/bsq-record-keeper.adoc[bsq-record-keeper.adoc]
@@ -62,7 +62,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |DAO Maintainer
 |https://github.com/bisq-network/roles/blob/master/dao-maintainer.adoc[dao-maintainer.adoc]
 |https://github.com/bisq-network/roles/issues/4[#4]
-|TBD
+|5000
 
 |Discourse Forum Operator
 |https://github.com/bisq-network/roles/blob/master/disclosure-forum-operator.adoc[disclosure-forum-operator.adoc]
@@ -72,7 +72,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |DNS Operator
 |https://github.com/bisq-network/roles/blob/master/dns-operator.adoc[dns-operator.adoc]
 |https://github.com/bisq-network/roles/issues/18[#18]
-|TBD
+|20000
 
 |Docs Maintainer
 |https://github.com/bisq-network/roles/blob/master/docs-maintainer.adoc[docs-maintainer.adoc]
@@ -87,12 +87,12 @@ The owner of a given role is responsible for creating and maintaining their role
 |Exchange Arbitrator
 |https://github.com/bisq-network/roles/blob/master/exchange-arbitrator.adoc[exchange-arbitrator.adoc]
 |https://github.com/bisq-network/roles/issues/13[#13]
-|TBD
+|4000
 
 |Exchange Maintainer
 |https://github.com/bisq-network/roles/blob/master/exchange-maintainer.adoc[exchange-maintainer.adoc]
 |https://github.com/bisq-network/roles/issues/3[#3]
-|TBD
+|20000
 
 |Exchange Payment Method Expert
 |https://github.com/bisq-network/roles/blob/master/exchange-payment-method-expert.adoc[exchange-payment-method-expert.adoc]
@@ -127,7 +127,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |Mailchimp Newsletter Administrator
 |https://github.com/bisq-network/roles/blob/master/mailchimp-newsletter-administrator.adoc[mailchimp-newsletter-administrator.adoc]
 |https://github.com/bisq-network/roles/issues/27[#27]
-|TBD
+|2000
 
 |Network Monitor Operator and Maintainer
 |https://github.com/bisq-network/roles/blob/master/network-monitor-operator-and-maintainer.adoc[network-monitor-operator-and-maintainer.adoc]
@@ -137,7 +137,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |Pricenode Maintainer
 |https://github.com/bisq-network/roles/blob/master/pricenode-maintainer.adoc[pricenode-maintainer.adoc]
 |https://github.com/bisq-network/roles/issues/5[#5]
-|TBD
+|5000
 
 |Pricenode Operator
 |https://github.com/bisq-network/roles/blob/master/pricenode-operator.adoc[pricenode-operator.adoc]
@@ -152,7 +152,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |Reddit Operator
 |https://github.com/bisq-network/roles/blob/master/reddit-operator.adoc[reddit-operator.adoc]
 |https://github.com/bisq-network/roles/issues/25[#25]
-|TBD
+|1000
 
 |Roles Maintainer
 |https://github.com/bisq-network/roles/blob/master/roles-maintainer.adoc[roles-maintainer.adoc]
@@ -162,7 +162,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |Seednode Maintainer
 |https://github.com/bisq-network/roles/blob/master/seednode-maintainer.adoc[seednode-maintainer.adoc]
 |https://github.com/bisq-network/roles/issues/6[#6]
-|TBD
+|5000
 
 |Seednode Operator
 |https://github.com/bisq-network/roles/blob/master/seednode-operator.adoc[seednode-operator.adoc]
@@ -172,7 +172,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |Slack Workspace Owner
 |https://github.com/bisq-network/roles/blob/master/slack-workspace-owner.adoc[slack-workspace-owner.adoc]
 |https://github.com/bisq-network/roles/issues/23[#23]
-|TBD
+|2000
 
 |Statsnode Maintainer
 |https://github.com/bisq-network/roles/blob/master/statsnode-maintainer.adoc[statsnode-maintainer.adoc]
@@ -182,27 +182,27 @@ The owner of a given role is responsible for creating and maintaining their role
 |Telegram Operator
 |https://github.com/bisq-network/roles/blob/master/telegram-operator.adoc[telegram-operator.adoc]
 |https://github.com/bisq-network/roles/issues/24[#24]
-|TBD
+|500
 
 |Transifex Operator
 |https://github.com/bisq-network/roles/blob/master/transifex-operator.adoc[transifex-operator.adoc]
 |https://github.com/bisq-network/roles/issues/20[#20]
-|TBD
+|1000
 
 |Travis CI Operator
 |https://github.com/bisq-network/roles/blob/master/travis-ci-operator.adoc[travis-ci-operator.adoc]
 |https://github.com/bisq-network/roles/issues/17[#17]
-|TBD
+|500
 
 |Twitter Operator
 |https://github.com/bisq-network/roles/blob/master/twitter-operator.adoc[twitter-operator.adoc]
 |https://github.com/bisq-network/roles/issues/21[#21]
-|TBD
+|2000
 
 |Vimeo Operator
 |https://github.com/bisq-network/roles/blob/master/vimeo-operator.adoc[vimeo-operator.adoc]
 |https://github.com/bisq-network/roles/issues/36[#36]
-|TBD
+|1000
 
 |Website Operator and Maintainer
 |https://github.com/bisq-network/roles/blob/master/website-operator-and-maintainer.adoc[website-operator-and-maintainer.adoc]
