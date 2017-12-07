@@ -20,8 +20,7 @@ The owner of a given role is responsible for creating and maintaining their role
 
 |Ambassador
 |https://github.com/bisq-network/roles/blob/master/ambassador.adoc[ambassador.adoc]
-|https://github.com/bisq-network/roles/issues/
-[#35]
+|https://github.com/bisq-network/roles/issues/35[#35]
 |TBD
 
 |Botcoin Fullnode Operator
