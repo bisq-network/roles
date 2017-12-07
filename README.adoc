@@ -23,13 +23,21 @@ The owner of a given role is responsible for creating and maintaining their role
 |https://github.com/bisq-network/roles/issues/35[#35]
 |TBD
 
-|https://github.com/bisq-network/roles/blob/master/bitcointalk-bisq-thread-operator.adoc[Bitcointalk Bisq Thread Operator]
+|Bitcointalk Bisq Thread Operator
+|https://github.com/bisq-network/roles/blob/master/bitcointalk-bisq-thread-operator.adoc[bitcointalk-bisq-thread-operator.adoc]
 |https://github.com/bisq-network/roles/issues/35[#35]
-|Cell in column 3, row 2
+|TBD
 
-|https://github.com/bisq-network/roles/blob/master/bitcoinj-maintainer.adoc[Botcoinj Maintainer]
+|Botcoinj Maintainer
+|https://github.com/bisq-network/roles/blob/master/bitcoinj-maintainer.adoc[bitcoinj-maintainer.adoc]
 |https://github.com/bisq-network/roles/issues/35[#35]
-|Cell in column 3, row 2
+|TBD
+
+
+|BSQ Explorer Operator and Maintainer
+|https://github.com/bisq-network/roles/blob/master/bsq-explorer-operator-and-maintainer.adoc[bsq-explorer-operator-and-maintainer.adoc]
+|https://github.com/bisq-network/roles/issues/35[#35]
+|TBD
 
 |===
 
