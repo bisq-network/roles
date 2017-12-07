@@ -16,7 +16,7 @@ The owner of a given role is responsible for creating and maintaining their role
 == List of Roles in the Network:
 
 |===
-|Name |Specifications |Issue |Bond
+|Name |Specification |Issue |Bond
 
 |Ambassador
 |https://github.com/bisq-network/roles/blob/master/ambassador.adoc[ambassador.adoc]
