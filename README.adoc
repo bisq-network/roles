@@ -1,24 +1,41 @@
 = Bisq Network Roles
 
-This repository gives you a transparent overview about all current roles within the Bisq Network. It provides the viewer with details about the purpose, motivation, privileges, requirements and responsibilities of all roles. This will ensure clarity about ones own role, help identifying other roles and facitilitate the compensation process.
+This repository gives you a transparent overview about all current roles within the Bisq Network. It provides the viewer with details about the purpose, motivation, privileges, requirements and responsibilities of all roles. This will ensure clarity about one's own role, help identifying other roles and facilitate the compensation process.
 
-The **owner of the role** is responsible for **creating and maintaining** of his/her **role description**. 
+The owner of a given role is responsible for creating and maintaining their role specifications as an AsciiDoc file here in this repository. 
 
 == How to Create a New Role?
 
-1. Create **New File**
-1. **Name** Your File according to the defined syntax (eg. "role-maintainer.adoc")
-1. **Edit** Your Role according to the https://github.com/bisq-network/roles/blob/master/TEMPLATE.adoc[Template]
-1. **Propose** New File
-1. You're done? Then you are ready to Create a **Pull Request**
-1. Wait for Confirmation
+1. Discuss and make sure there is consensus about the need for and purpose of this role in the #roles channel or elsewhere
+1. Create a GitHub issue representing that will be used to track this role (https://github.com/bisq-network/roles/issues[see other role issues for examples])
+1. Create and edit a 'specification' document for this role based on ROLE-SPEC-TEMPLATE.adoc. See the existing list of role specs and follow the naming convention.
+1. Submit the new file as a pull request. Be sure to mention the role issue ID, e.g. https://github.com/bisq-network/roles/issues/28[#28] somewhere in the pull request title or description to ensure that the pull request shows up in the timeline of the role issue.
+1. The roles repository maintainer will review your new role spec, provide any feedback, and merge it when ready.
 
 
 == List of Roles in the Network:
 
-https://github.com/bisq-network/roles/blob/master/ambassador.adoc[Ambassador]
-https://github.com/bisq-network/roles/blob/master/bitcointalk-bisq-thread-operator.adoc[Bitcointalk Bisq Thread Operator]
-https://github.com/bisq-network/roles/blob/master/bitcoinj-maintainer.adoc[Botcoinj Maintainer]
+|===
+|Name |Specifications |Issue |Bond
+
+|Ambassador
+|https://github.com/bisq-network/roles/blob/master/ambassador.adoc[ambassador.adoc]
+|https://github.com/bisq-network/roles/issues/35[#35]
+|TBD
+
+|https://github.com/bisq-network/roles/blob/master/bitcointalk-bisq-thread-operator.adoc[Bitcointalk Bisq Thread Operator]
+|https://github.com/bisq-network/roles/issues/35[#35]
+|Cell in column 3, row 2
+
+|https://github.com/bisq-network/roles/blob/master/bitcoinj-maintainer.adoc[Botcoinj Maintainer]
+|https://github.com/bisq-network/roles/issues/35[#35]
+|Cell in column 3, row 2
+
+|===
+
+
+
+
 https://github.com/bisq-network/roles/blob/master/bsq-explorer-operator-and-maintainer.adoc[BSQ Explorer Operator and Maintainer]
 https://github.com/bisq-network/roles/blob/master/bsq-record-keeper.adoc[BSQ Record Keeper]
 https://github.com/bisq-network/roles/blob/master/comp-maintainer.adoc[Comp Maintainer]
