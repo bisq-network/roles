@@ -104,6 +104,11 @@ The owner of a given role is responsible for creating and maintaining their role
 |https://github.com/bisq-network/roles/issues/9[#9]
 |TBD
 
+|Facebook Page Moderator
+|https://github.com/bisq-network/roles/blob/master/facebook-page-moderator.adoc[facebook-page-moderator.adoc]
+|https://github.com/bisq-network/roles/issues/48[#48]
+|TBD
+
 |Founder
 |https://github.com/bisq-network/roles/blob/master/founder.adoc[founder.adoc]
 |https://github.com/bisq-network/roles/issues/1[#1]
