@@ -1,4 +1,5 @@
 = Bisq DAO Roles
+:issues: https://github.com/bisq-network/roles/issues
 
 This repository provides complete information about all roles within the Bisq DAO. It provides the reader with details about the purpose, motivation, privileges, requirements and responsibilities of all roles. This ensures clarity about one's own role, helps in understanding other roles and facilitates the compensation process.
 
@@ -7,10 +8,10 @@ The owner of a given role is responsible for creating and maintaining their role
 == How to Create a New Role
 
 1. Discuss and make sure there is consensus about the need for and purpose of this role in the Slack `#roles` channel or elsewhere.
-1. Create a GitHub issue that will be used to track this role (https://github.com/bisq-network/roles/issues[see other role issues for examples]).
+1. Create a GitHub issue that will be used to track this role ({issues}[see other role issues for examples]).
 1. Create and edit a 'specification' document for this role based on `SPEC-TEMPLATE.adoc`. See existing role specifications linked from the table below for examples.
-1. Submit the new specification as a pull request. Be sure to mention the role issue ID, e.g. https://github.com/bisq-network/roles/issues/28[#28] somewhere in the pull request title or description to ensure that the pull request shows up in the timeline of the role issue. Also, be sure to edit this file (`README.adoc`) and add an entry to the table of roles below.
-1. The https://github.com/bisq-network/roles/issues/28[roles repository maintainer] will review your new role spec, provide any feedback, and merge it when ready.
+1. Submit the new specification as a pull request. Be sure to mention the role issue ID, e.g. {issues}/28[#28] somewhere in the pull request title or description to ensure that the pull request shows up in the timeline of the role issue. Also, be sure to edit this file (`README.adoc`) and add an entry to the table of roles below.
+1. The {issues}/28[roles repository maintainer] will review your new role spec, provide any feedback, and merge it when ready.
 
 
 == Roles Overview
@@ -18,194 +19,194 @@ The owner of a given role is responsible for creating and maintaining their role
 |===
 |Role |Specification |Issue |Bond
 
-|Ambassador
+|Bisq Ambassador
 |TODO
-|https://github.com/bisq-network/roles/issues/35[#35]
+|{issues}/35[#35]
 |TODO
 
 |Bitcoin Fullnode Operator
 |TODO
-|https://github.com/bisq-network/roles/issues/39[#39]
+|{issues}/39[#39]
 |TODO
 
 |Bitcoinj Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/8[#8]
+|{issues}/8[#8]
 |5000
 
 |BitcoinTalk Thread Moderator
 |TODO
-|https://github.com/bisq-network/roles/issues/37[#37]
+|{issues}/37[#37]
 |500
 
 |BSQ Record Keeper
 |TODO
-|https://github.com/bisq-network/roles/issues/33[#33]
+|{issues}/33[#33]
 |TODO
 
 |Compensation Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/31[#31]
+|{issues}/31[#31]
 |TODO
 
 |Data Analyst
 |https://github.com/bisq-network/roles/blob/master/data-analyst.adoc[data-analyst.adoc]
-|https://github.com/bisq-network/roles/issues/40[#40]
+|{issues}/40[#40]
 |TODO
 
 |DAO Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/4[#4]
+|{issues}/4[#4]
 |5000
 
 |DNS Operator
 |TODO
-|https://github.com/bisq-network/roles/issues/18[#18]
+|{issues}/18[#18]
 |20000
 
 |Docs Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/29[#29]
+|{issues}/29[#29]
 |TODO
 
 |Exchange Arbitrator
 |TODO
-|https://github.com/bisq-network/roles/issues/13[#13]
+|{issues}/13[#13]
 |4000
 
 |Exchange Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/3[#3]
+|{issues}/3[#3]
 |20000
 
 |Explorer Operator/Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/11[#11]
+|{issues}/11[#11]
 |2000
 
 |Facebook Page Moderator
 |TODO
-|https://github.com/bisq-network/roles/issues/48[#48]
+|{issues}/48[#48]
 |TODO
 
 |Forum Operator
 |TODO
-|https://github.com/bisq-network/roles/issues/19[#19]
+|{issues}/19[#19]
 |TODO
 
 |Founder
 |TODO
-|https://github.com/bisq-network/roles/issues/1[#1]
+|{issues}/1[#1]
 |TODO
 
 |GitHub Organization Owner
 |TODO
-|https://github.com/bisq-network/roles/issues/16[#16]
+|{issues}/16[#16]
 |TODO
 
 |Growth Maintainer
 |https://github.com/bisq-network/roles/blob/master/growth-maintainer.adoc[growth-maintainer.adoc]
-|https://github.com/bisq-network/roles/issues/42[#42]
+|{issues}/42[#42]
 |TODO
 
 |IRC Operator
 |TODO
-|https://github.com/bisq-network/roles/issues/22[#22]
+|{issues}/22[#22]
 |TODO
 
 |Mailing List Operator
 |https://github.com/bisq-network/roles/blob/master/mailing-list-operator.adoc[mailing-list-operator.adoc]
-|https://github.com/bisq-network/roles/issues/27[#26]
+|{issues}/27[#26]
 |2000
 
 |Markets Operator/Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/9[#9]
+|{issues}/9[#9]
 |TODO
 
 |Monitoring Operator/Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/10[#10]
+|{issues}/10[#10]
 |TODO
 
 |Newsletter Administrator
 |TODO
-|https://github.com/bisq-network/roles/issues/27[#27]
+|{issues}/27[#27]
 |2000
 
 |Payment Method Expert
 |TODO
-|https://github.com/bisq-network/roles/issues/38[#38]
+|{issues}/38[#38]
 |TODO
 
 |Pricenode Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/5[#5]
+|{issues}/5[#5]
 |5000
 
 |Pricenode Operator
 |TODO
-|https://github.com/bisq-network/roles/issues/14[#14]
+|{issues}/14[#14]
 |TODO
 
 |Proposals Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/30[#30]
+|{issues}/30[#30]
 |TODO
 
 |Reddit Moderator
 |TODO
-|https://github.com/bisq-network/roles/issues/25[#25]
+|{issues}/25[#25]
 |1000
 
 |Roles Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/28[#28]
+|{issues}/28[#28]
 |TODO
 
 |Seednode Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/6[#6]
+|{issues}/6[#6]
 |5000
 
 |Seednode Operator
 |TODO
-|https://github.com/bisq-network/roles/issues/15[#15]
+|{issues}/15[#15]
 |2000
 
 |Slack Owner
 |TODO
-|https://github.com/bisq-network/roles/issues/23[#23]
+|{issues}/23[#23]
 |2000
 
 |Statsnode Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/7[#7]
+|{issues}/7[#7]
 |TODO
 
 |Telegram Administrator
 |TODO
-|https://github.com/bisq-network/roles/issues/24[#24]
+|{issues}/24[#24]
 |500
 
 |Transifex Administrator
 |TODO
-|https://github.com/bisq-network/roles/issues/20[#20]
+|{issues}/20[#20]
 |1000
 
 |Twitter Operator
 |https://github.com/bisq-network/roles/blob/master/twitter-operator.adoc[twitter-operator.adoc]
-|https://github.com/bisq-network/roles/issues/21[#21]
+|{issues}/21[#21]
 |2000
 
 |Vimeo Administrator
 |TODO
-|https://github.com/bisq-network/roles/issues/36[#36]
+|{issues}/36[#36]
 |1000
 
 |Website Operator/Maintainer
 |TODO
-|https://github.com/bisq-network/roles/issues/12[#12]
+|{issues}/12[#12]
 |TODO
 
 |===
