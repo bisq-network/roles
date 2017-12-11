@@ -10,7 +10,7 @@ The owner of a given role is responsible for creating and maintaining their role
 
 1. Discuss and make sure there is consensus about the need for and purpose of this role in the Slack `#roles` channel or elsewhere.
 1. Create a GitHub issue that will be used to track this role ({issues}[see other role issues for examples]).
-1. Create and edit a 'specification' document for this role based on `SPEC-TEMPLATE.adoc`. See existing role specifications linked from the table below for examples.
+1. Create and edit a _specification_ document for this role based on `SPEC-TEMPLATE.adoc`. See existing role specifications linked from the table below for examples.
 1. Submit the new specification as a pull request. Be sure to mention the role issue ID, e.g. {issues}/28[#28] somewhere in the pull request title or description to ensure that the pull request shows up in the timeline of the role issue. Also, be sure to edit this file (`README.adoc`) and add an entry to the table of roles below.
 1. The {issues}/28[roles repository maintainer] will review your new role spec, provide any feedback, and merge it when ready.
 
