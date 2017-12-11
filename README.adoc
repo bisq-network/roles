@@ -2,13 +2,13 @@
 
 This repository gives you a transparent overview about all current roles within the Bisq Network. It provides the viewer with details about the purpose, motivation, privileges, requirements and responsibilities of all roles. This will ensure clarity about one's own role, help identifying other roles and facilitate the compensation process.
 
-The owner of a given role is responsible for creating and maintaining their role specifications as an AsciiDoc file here in this repository. 
+The owner of a given role is responsible for creating and maintaining their role specifications as an AsciiDoc file here in this repository.
 
 == How to Create a New Role?
 
 1. Discuss and make sure there is consensus about the need for and purpose of this role in the #roles channel or elsewhere
 1. Create a GitHub issue representing that will be used to track this role (https://github.com/bisq-network/roles/issues[see other role issues for examples])
-1. Create and edit a 'specification' document for this role based on ROLE-SPEC-TEMPLATE.adoc. See the existing list of role specs and follow the naming convention.
+1. Create and edit a 'specification' document for this role based on `SPEC-TEMPLATE.adoc`. See the existing list of role specs and follow the naming convention.
 1. Submit the new file as a pull request. Be sure to mention the role issue ID, e.g. https://github.com/bisq-network/roles/issues/28[#28] somewhere in the pull request title or description to ensure that the pull request shows up in the timeline of the role issue.
 1. The roles repository maintainer will review your new role spec, provide any feedback, and merge it when ready.
 
@@ -19,209 +19,193 @@ The owner of a given role is responsible for creating and maintaining their role
 |Name |Specification |Issue |Bond
 
 |Ambassador
-|https://github.com/bisq-network/roles/blob/master/ambassador.adoc[ambassador.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/35[#35]
-|TBD
+|TODO
 
-|Botcoin Fullnode Operator
-|https://github.com/bisq-network/roles/blob/master/bitcoin-fullnode-operator.adoc[bitcoin-fullnode-operator.adoc]
+|Bitcoin Fullnode Operator
+|TODO
 |https://github.com/bisq-network/roles/issues/39[#39]
-|TBD
+|TODO
 
-|Bitcointalk Bisq Thread Operator
-|https://github.com/bisq-network/roles/blob/master/bitcointalk-bisq-thread-operator.adoc[bitcointalk-bisq-thread-operator.adoc]
+|BitcoinTalk Thread Moderator
+|TODO
 |https://github.com/bisq-network/roles/issues/37[#37]
 |500
 
-|Botcoinj Maintainer
-|https://github.com/bisq-network/roles/blob/master/bitcoinj-maintainer.adoc[bitcoinj-maintainer.adoc]
+|Bitcoinj Maintainer
+|TODO
 |https://github.com/bisq-network/roles/issues/8[#8]
 |5000
 
-
-|BSQ Explorer Operator and Maintainer
-|https://github.com/bisq-network/roles/blob/master/bsq-explorer-operator-and-maintainer.adoc[bsq-explorer-operator-and-maintainer.adoc]
+|Explorer Operator/Maintainer
+|TODO
 |https://github.com/bisq-network/roles/issues/11[#11]
 |2000
 
 |BSQ Record Keeper
-|https://github.com/bisq-network/roles/blob/master/bsq-record-keeper.adoc[bsq-record-keeper.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/33[#33]
-|TBD
+|TODO
 
-|Comp Maintainer
-|https://github.com/bisq-network/roles/blob/master/comp-maintainer.adoc[comp-maintainer.adoc]
+|Compensation Maintainer
+|TODO
 |https://github.com/bisq-network/roles/issues/31[#31]
-|TBD
+|TODO
 
 |Data Analyst
 |https://github.com/bisq-network/roles/blob/master/data-analyst.adoc[data-analyst.adoc]
 |https://github.com/bisq-network/roles/issues/40[#40]
-|TBD
+|TODO
 
 |DAO Maintainer
-|https://github.com/bisq-network/roles/blob/master/dao-maintainer.adoc[dao-maintainer.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/4[#4]
 |5000
 
-|Discourse Forum Operator
-|https://github.com/bisq-network/roles/blob/master/disclosure-forum-operator.adoc[disclosure-forum-operator.adoc]
+|Forum Operator
+|TODO
 |https://github.com/bisq-network/roles/issues/19[#19]
-|TBD
+|TODO
 
 |DNS Operator
-|https://github.com/bisq-network/roles/blob/master/dns-operator.adoc[dns-operator.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/18[#18]
 |20000
 
 |Docs Maintainer
-|https://github.com/bisq-network/roles/blob/master/docs-maintainer.adoc[docs-maintainer.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/29[#29]
-|TBD
-
-|Economic Advisor
-|https://github.com/bisq-network/roles/blob/master/economic-advisor.adoc[economic-advisor.adoc]
-|https://github.com/bisq-network/roles/issues/35[#35]
-|TBD
+|TODO
 
 |Exchange Arbitrator
-|https://github.com/bisq-network/roles/blob/master/exchange-arbitrator.adoc[exchange-arbitrator.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/13[#13]
 |4000
 
 |Exchange Maintainer
-|https://github.com/bisq-network/roles/blob/master/exchange-maintainer.adoc[exchange-maintainer.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/3[#3]
 |20000
 
-|Exchange Payment Method Expert
-|https://github.com/bisq-network/roles/blob/master/exchange-payment-method-expert.adoc[exchange-payment-method-expert.adoc]
+|Payment Method Expert
+|TODO
 |https://github.com/bisq-network/roles/issues/38[#38]
-|TBD
+|TODO
 
-|Exchange Statistics Website/API Operator and Maintainer
-|https://github.com/bisq-network/roles/blob/master/exchange-statistics-websiteapi-operator-and-maintainer.adoc[exchange-statistics-websiteapi-operator-and-maintainer.adoc]
+|Markets Operator/Maintainer
+|TODO
 |https://github.com/bisq-network/roles/issues/9[#9]
-|TBD
+|TODO
 
 |Facebook Page Moderator
-|https://github.com/bisq-network/roles/blob/master/facebook-page-moderator.adoc[facebook-page-moderator.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/48[#48]
-|TBD
+|TODO
 
 |Founder
-|https://github.com/bisq-network/roles/blob/master/founder.adoc[founder.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/1[#1]
-|TBD
+|TODO
 
-|Freenode IRC Operator
-|https://github.com/bisq-network/roles/blob/master/freenode-irc-operator.adoc[freenode-irc-operator.adoc]
+|IRC Operator
+|TODO
 |https://github.com/bisq-network/roles/issues/22[#22]
-|TBD
+|TODO
 
-|GitHub Organization Operator
-|https://github.com/bisq-network/roles/blob/master/github-organization-operator.adoc[github-organization-operator.adoc]
+|GitHub Organization Owner
+|TODO
 |https://github.com/bisq-network/roles/issues/16[#16]
-|TBD
+|TODO
 
 |Growth Maintainer
 |https://github.com/bisq-network/roles/blob/master/growth-maintainer.adoc[growth-maintainer.adoc]
 |https://github.com/bisq-network/roles/issues/42[#42]
-|TBD
+|TODO
 
-|Mailchimp Newsletter Administrator
-|https://github.com/bisq-network/roles/blob/master/mailchimp-newsletter-administrator.adoc[mailchimp-newsletter-administrator.adoc]
+|Newsletter Administrator
+|TODO
 |https://github.com/bisq-network/roles/issues/27[#27]
 |2000
 
-|Network Monitor Operator and Maintainer
-|https://github.com/bisq-network/roles/blob/master/network-monitor-operator-and-maintainer.adoc[network-monitor-operator-and-maintainer.adoc]
+|Mailing List Operator
+|https://github.com/bisq-network/roles/blob/master/mailing-list-operator.adoc[mailing-list-operator.adoc]
+|https://github.com/bisq-network/roles/issues/27[#26]
+|2000
+
+|Monitoring Operator/Maintainer
+|TODO
 |https://github.com/bisq-network/roles/issues/10[#10]
-|TBD
+|TODO
 
 |Pricenode Maintainer
-|https://github.com/bisq-network/roles/blob/master/pricenode-maintainer.adoc[pricenode-maintainer.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/5[#5]
 |5000
 
 |Pricenode Operator
-|https://github.com/bisq-network/roles/blob/master/pricenode-operator.adoc[pricenode-operator.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/14[#14]
-|TBD
+|TODO
 
 |Proposals Maintainer
-|https://github.com/bisq-network/roles/blob/master/proposals-maintainer.adoc[proposals-maintainer.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/30[#30]
-|TBD
+|TODO
 
-|Reddit Operator
-|https://github.com/bisq-network/roles/blob/master/reddit-operator.adoc[reddit-operator.adoc]
+|Reddit Moderator
+|TODO
 |https://github.com/bisq-network/roles/issues/25[#25]
 |1000
 
 |Roles Maintainer
-|https://github.com/bisq-network/roles/blob/master/roles-maintainer.adoc[roles-maintainer.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/28[#28]
-|TBD
+|TODO
 
 |Seednode Maintainer
-|https://github.com/bisq-network/roles/blob/master/seednode-maintainer.adoc[seednode-maintainer.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/6[#6]
 |5000
 
 |Seednode Operator
-|https://github.com/bisq-network/roles/blob/master/seednode-operator.adoc[seednode-operator.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/15[#15]
 |2000
 
-|Slack Workspace Owner
-|https://github.com/bisq-network/roles/blob/master/slack-workspace-owner.adoc[slack-workspace-owner.adoc]
+|Slack Owner
+|TODO
 |https://github.com/bisq-network/roles/issues/23[#23]
 |2000
 
 |Statsnode Maintainer
-|https://github.com/bisq-network/roles/blob/master/statsnode-maintainer.adoc[statsnode-maintainer.adoc]
+|TODO
 |https://github.com/bisq-network/roles/issues/7[#7]
-|TBD
+|TODO
 
-|Telegram Operator
-|https://github.com/bisq-network/roles/blob/master/telegram-operator.adoc[telegram-operator.adoc]
+|Telegram Administrator
+|TODO
 |https://github.com/bisq-network/roles/issues/24[#24]
 |500
 
-|Transifex Operator
-|https://github.com/bisq-network/roles/blob/master/transifex-operator.adoc[transifex-operator.adoc]
+|Transifex Administrator
+|TODO
 |https://github.com/bisq-network/roles/issues/20[#20]
 |1000
-
-|Travis CI Operator
-|https://github.com/bisq-network/roles/blob/master/travis-ci-operator.adoc[travis-ci-operator.adoc]
-|https://github.com/bisq-network/roles/issues/17[#17]
-|500
 
 |Twitter Operator
 |https://github.com/bisq-network/roles/blob/master/twitter-operator.adoc[twitter-operator.adoc]
 |https://github.com/bisq-network/roles/issues/21[#21]
 |2000
 
-|Vimeo Operator
-|https://github.com/bisq-network/roles/blob/master/vimeo-operator.adoc[vimeo-operator.adoc]
+|Vimeo Administrator
+|TODO
 |https://github.com/bisq-network/roles/issues/36[#36]
 |1000
 
-|Website Operator and Maintainer
-|https://github.com/bisq-network/roles/blob/master/website-operator-and-maintainer.adoc[website-operator-and-maintainer.adoc]
+|Website Operator/Maintainer
+|TODO
 |https://github.com/bisq-network/roles/issues/12[#12]
-|TBD
-
-|Writer/Editor
-|https://github.com/bisq-network/roles/blob/master/writer-editor.adoc[writer-editor.adoc]
-|https://github.com/bisq-network/roles/issues/34[#34]
-|TBD
+|TODO
 
 |===
-
-
-
-
-
