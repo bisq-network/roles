@@ -1,5 +1,6 @@
 = Bisq DAO Roles
 :issues: https://github.com/bisq-network/roles/issues
+:specs: https://github.com/bisq-network/roles/blob/master
 
 This repository provides complete information about all roles within the Bisq DAO. It provides the reader with details about the purpose, motivation, privileges, requirements and responsibilities of all roles. This ensures clarity about one's own role, helps in understanding other roles and facilitates the compensation process.
 
@@ -50,7 +51,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 
 |Data Analyst
-|https://github.com/bisq-network/roles/blob/master/data-analyst.adoc[data-analyst.adoc]
+|{specs}/data-analyst.adoc[data-analyst.adoc]
 |{issues}/40[#40]
 |TODO
 
@@ -105,7 +106,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 
 |Growth Maintainer
-|https://github.com/bisq-network/roles/blob/master/growth-maintainer.adoc[growth-maintainer.adoc]
+|{specs}/growth-maintainer.adoc[growth-maintainer.adoc]
 |{issues}/42[#42]
 |TODO
 
@@ -115,7 +116,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 
 |Mailing List Operator
-|https://github.com/bisq-network/roles/blob/master/mailing-list-operator.adoc[mailing-list-operator.adoc]
+|{specs}/mailing-list-operator.adoc[mailing-list-operator.adoc]
 |{issues}/27[#26]
 |2000
 
@@ -195,7 +196,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |1000
 
 |Twitter Operator
-|https://github.com/bisq-network/roles/blob/master/twitter-operator.adoc[twitter-operator.adoc]
+|{specs}/twitter-operator.adoc[twitter-operator.adoc]
 |{issues}/21[#21]
 |2000
 
