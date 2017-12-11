@@ -19,196 +19,196 @@ The owner of a given role is responsible for creating and maintaining their role
 == Roles Overview
 
 |===
-|Role |Specification |Issue |Bond
+|Role |Issue |Specification |BSQ Bond
 
 |Bisq Ambassador
-|TODO
 |{issues}/35[#35]
+|TODO
 |TODO
 
 |Bitcoin Fullnode Operator
-|TODO
 |{issues}/39[#39]
+|TODO
 |TODO
 
 |{gh-org}/bitcoinj[Bitcoinj] Maintainer
-|TODO
 |{issues}/8[#8]
+|TODO
 |5000
 
 |https://bitcointalk.org/index.php?topic=647457[BitcoinTalk] Moderator
-|TODO
 |{issues}/37[#37]
+|TODO
 |500
 
 |BSQ Record Keeper
-|TODO
 |{issues}/33[#33]
+|TODO
 |TODO
 
 |{gh-org}/compensation[Compensation] Maintainer
-|TODO
 |{issues}/31[#31]
+|TODO
 |TODO
 
 |Data Analyst
-|{specs}/data-analyst.adoc[data-analyst.adoc]
 |{issues}/40[#40]
+|{specs}/data-analyst.adoc[data-analyst.adoc]
 |TODO
 
 |{gh-org}[DAO] Maintainer
-|TODO
 |{issues}/4[#4]
+|TODO
 |5000
 
 |DNS Operator
-|TODO
 |{issues}/18[#18]
+|TODO
 |20000
 
 |{gh-org}/docs[Docs] Maintainer
-|TODO
 |{issues}/29[#29]
+|TODO
 |TODO
 
 |{gh-org}/exchange[Exchange] Arbitrator
-|TODO
 |{issues}/13[#13]
+|TODO
 |4000
 
 |{gh-org}/exchange[Exchange] Maintainer
-|TODO
 |{issues}/3[#3]
+|TODO
 |20000
 
 |https://explorer.bisq.network/testnet/[Explorer] Operator/Maintainer
-|TODO
 |{issues}/11[#11]
+|TODO
 |2000
 
 |https://www.facebook.com/bitsquareexchange/[Facebook Page] Moderator
-|TODO
 |{issues}/48[#48]
+|TODO
 |TODO
 
 |https://bisq.community[Forum] Operator
-|TODO
 |{issues}/19[#19]
+|TODO
 |TODO
 
 |Founder
-|TODO
 |{issues}/1[#1]
+|TODO
 |TODO
 
 |{gh-org}[GitHub Organization] Owner
-|TODO
 |{issues}/16[#16]
+|TODO
 |TODO
 
 |{gh-org}/growth[Growth] Maintainer
-|{specs}/growth-maintainer.adoc[growth-maintainer.adoc]
 |{issues}/42[#42]
+|{specs}/growth-maintainer.adoc[growth-maintainer.adoc]
 |TODO
 
 |https://webchat.freenode.net/?channels=bisq,bitsquare[IRC] Operator
-|TODO
 |{issues}/22[#22]
+|TODO
 |TODO
 
 |https://lists.bisq.network/pipermail/bisq-contrib/[Mailing List] Operator
-|{specs}/mailing-list-operator.adoc[mailing-list-operator.adoc]
 |{issues}/27[#26]
+|{specs}/mailing-list-operator.adoc[mailing-list-operator.adoc]
 |2000
 
 |https://markets.bisq.network[Markets] Operator/Maintainer
-|TODO
 |{issues}/9[#9]
+|TODO
 |TODO
 
 |{gh-org}/monitoring[Monitoring] Operator/Maintainer
-|TODO
 |{issues}/10[#10]
+|TODO
 |TODO
 
 |https://us9.campaign-archive.com/home/?u=fee3c64b1504e7835a98b0ed3&id=dc09b9ca64[Newsletter] Administrator
-|TODO
 |{issues}/27[#27]
+|TODO
 |2000
 
 |Payment Method Expert
-|TODO
 |{issues}/38[#38]
+|TODO
 |TODO
 
 |{gh-org}/pricenode[Pricenode] Maintainer
-|TODO
 |{issues}/5[#5]
+|TODO
 |5000
 
 |{gh-org}/pricenode[Pricenode] Operator
-|TODO
 |{issues}/14[#14]
+|TODO
 |TODO
 
 |{gh-org}/proposals[Proposals] Maintainer
-|TODO
 |{issues}/30[#30]
+|TODO
 |TODO
 
 |https://reddit.com/r/bisq[Reddit] Moderator
-|TODO
 |{issues}/25[#25]
+|TODO
 |1000
 
 |{gh-org}/roles[Roles] Maintainer
-|TODO
 |{issues}/28[#28]
 |TODO
-
-|{gh-org}/seednode[Seednode] Maintainer
 |TODO
+
+|{gh-org}/exchange/tree/master/seednode[Seednode] Maintainer
 |{issues}/6[#6]
+|TODO
 |5000
 
-|{gh-org}/seednode[Seednode] Operator
-|TODO
+|{gh-org}/exchange/tree/master/seednode[Seednode] Operator
 |{issues}/15[#15]
+|TODO
 |2000
 
 |https://bisq.network/slack-invite[Slack] Owner
-|TODO
 |{issues}/23[#23]
+|TODO
 |2000
 
-|{gh-org}/statistics[Statsnode] Maintainer
-|TODO
+|{gh-org}/exchange/tree/master/statistics[Statsnode] Maintainer
 |{issues}/7[#7]
+|TODO
 |TODO
 
 |https://telegram.me/bitsquare[Telegram] Administrator
-|TODO
 |{issues}/24[#24]
+|TODO
 |500
 
 |https://www.transifex.com/bitsquare/bitsquare/[Transifex] Administrator
-|TODO
 |{issues}/20[#20]
+|TODO
 |1000
 
 |https://twitter.com/bisq_network[Twitter] Operator
-|{specs}/twitter-operator.adoc[twitter-operator.adoc]
 |{issues}/21[#21]
+|{specs}/twitter-operator.adoc[twitter-operator.adoc]
 |2000
 
 |https://vimeo.com/getbitsquare[Vimeo] Administrator
-|TODO
 |{issues}/36[#36]
+|TODO
 |1000
 
 |https://bisq.network[Website] Operator/Maintainer
-|TODO
 |{issues}/12[#12]
+|TODO
 |TODO
 
 |===
