@@ -51,7 +51,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |TODO
 
-|Data Analyst
+|{gh-org}/analytics[Data Analyst]
 |{issues}/40[#40]
 |{specs}/data-analyst.adoc[data-analyst.adoc]
 |TODO
@@ -61,7 +61,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |5000
 
-|DNS Operator
+|{gh-org}/dns[DNS] Operator
 |{issues}/18[#18]
 |TODO
 |20000
