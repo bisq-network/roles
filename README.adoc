@@ -1,22 +1,22 @@
-= Bisq Network Roles
+= Bisq DAO Roles
 
-This repository gives you a transparent overview about all current roles within the Bisq Network. It provides the viewer with details about the purpose, motivation, privileges, requirements and responsibilities of all roles. This will ensure clarity about one's own role, help identifying other roles and facilitate the compensation process.
+This repository provides complete information about all roles within the Bisq DAO. It provides the reader with details about the purpose, motivation, privileges, requirements and responsibilities of all roles. This ensures clarity about one's own role, helps in understanding other roles and facilitates the compensation process.
 
-The owner of a given role is responsible for creating and maintaining their role specifications as an AsciiDoc file here in this repository.
+The owner of a given role is responsible for creating and maintaining their role specification as an AsciiDoc file here in this repository. Each role also has a dedicated GitHub issue in this repository, where ownership of a given role is tracked by issue assignment. Owners issue periodic (usually monthly) reports as issues on their role issue.
 
-== How to Create a New Role?
+== How to Create a New Role
 
-1. Discuss and make sure there is consensus about the need for and purpose of this role in the #roles channel or elsewhere
-1. Create a GitHub issue representing that will be used to track this role (https://github.com/bisq-network/roles/issues[see other role issues for examples])
-1. Create and edit a 'specification' document for this role based on `SPEC-TEMPLATE.adoc`. See the existing list of role specs and follow the naming convention.
-1. Submit the new file as a pull request. Be sure to mention the role issue ID, e.g. https://github.com/bisq-network/roles/issues/28[#28] somewhere in the pull request title or description to ensure that the pull request shows up in the timeline of the role issue.
-1. The roles repository maintainer will review your new role spec, provide any feedback, and merge it when ready.
+1. Discuss and make sure there is consensus about the need for and purpose of this role in the Slack `#roles` channel or elsewhere.
+1. Create a GitHub issue that will be used to track this role (https://github.com/bisq-network/roles/issues[see other role issues for examples]).
+1. Create and edit a 'specification' document for this role based on `SPEC-TEMPLATE.adoc`. See existing role specifications linked from the table below for examples.
+1. Submit the new specification as a pull request. Be sure to mention the role issue ID, e.g. https://github.com/bisq-network/roles/issues/28[#28] somewhere in the pull request title or description to ensure that the pull request shows up in the timeline of the role issue. Also, be sure to edit this file (`README.adoc`) and add an entry to the table of roles below.
+1. The https://github.com/bisq-network/roles/issues/28[roles repository maintainer] will review your new role spec, provide any feedback, and merge it when ready.
 
 
-== List of Roles in the Network:
+== Roles Overview
 
 |===
-|Name |Specification |Issue |Bond
+|Role |Specification |Issue |Bond
 
 |Ambassador
 |TODO
