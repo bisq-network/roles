@@ -1,1 +1,214 @@
-= bisq network roles
+= Bisq DAO Roles
+:gh-org: https://github.com/bisq-network
+:issues: {gh-org}/roles/issues
+:specs: {gh-org}/roles/blob/master
+
+This repository provides complete information about all roles within the Bisq DAO. It provides the reader with details about the purpose, motivation, privileges, requirements and responsibilities of all roles. This ensures clarity about one's own role, helps in understanding other roles and facilitates the compensation process.
+
+The owner of a given role is responsible for creating and maintaining their role specification as an AsciiDoc file here in this repository. Each role also has a dedicated GitHub issue in this repository, where ownership of a given role is tracked by issue assignment. Owners issue periodic (usually monthly) reports as issues on their role issue.
+
+== How to Create a New Role
+
+1. Discuss and make sure there is consensus about the need for and purpose of this role in the Slack `#roles` channel or elsewhere.
+1. Create a GitHub issue that will be used to track this role ({issues}[see other role issues for examples]).
+1. Create and edit a _specification_ document for this role based on `SPEC-TEMPLATE.adoc`. See existing role specifications linked from the table below for examples.
+1. Submit the new specification as a pull request. Be sure to mention the role issue ID, e.g. {issues}/28[#28] somewhere in the pull request title or description to ensure that the pull request shows up in the timeline of the role issue. Also, be sure to edit this file (`README.adoc`) and add an entry to the table of roles below.
+1. The {issues}/28[roles repository maintainer] will review your new role spec, provide any feedback, and merge it when ready.
+
+
+== Roles Overview
+
+|===
+|Role |Specification |Issue |Bond
+
+|Bisq Ambassador
+|TODO
+|{issues}/35[#35]
+|TODO
+
+|Bitcoin Fullnode Operator
+|TODO
+|{issues}/39[#39]
+|TODO
+
+|{gh-org}/bitcoinj[Bitcoinj] Maintainer
+|TODO
+|{issues}/8[#8]
+|5000
+
+|https://bitcointalk.org/index.php?topic=647457[BitcoinTalk] Moderator
+|TODO
+|{issues}/37[#37]
+|500
+
+|BSQ Record Keeper
+|TODO
+|{issues}/33[#33]
+|TODO
+
+|{gh-org}/compensation[Compensation] Maintainer
+|TODO
+|{issues}/31[#31]
+|TODO
+
+|Data Analyst
+|{specs}/data-analyst.adoc[data-analyst.adoc]
+|{issues}/40[#40]
+|TODO
+
+|{gh-org}[DAO] Maintainer
+|TODO
+|{issues}/4[#4]
+|5000
+
+|DNS Operator
+|TODO
+|{issues}/18[#18]
+|20000
+
+|{gh-org}/docs[Docs] Maintainer
+|TODO
+|{issues}/29[#29]
+|TODO
+
+|{gh-org}/exchange[Exchange] Arbitrator
+|TODO
+|{issues}/13[#13]
+|4000
+
+|{gh-org}/exchange[Exchange] Maintainer
+|TODO
+|{issues}/3[#3]
+|20000
+
+|https://explorer.bisq.network/testnet/[Explorer] Operator/Maintainer
+|TODO
+|{issues}/11[#11]
+|2000
+
+|https://www.facebook.com/bitsquareexchange/[Facebook Page] Moderator
+|TODO
+|{issues}/48[#48]
+|TODO
+
+|https://bisq.community[Forum] Operator
+|TODO
+|{issues}/19[#19]
+|TODO
+
+|Founder
+|TODO
+|{issues}/1[#1]
+|TODO
+
+|{gh-org}[GitHub Organization] Owner
+|TODO
+|{issues}/16[#16]
+|TODO
+
+|{gh-org}/growth[Growth] Maintainer
+|{specs}/growth-maintainer.adoc[growth-maintainer.adoc]
+|{issues}/42[#42]
+|TODO
+
+|https://webchat.freenode.net/?channels=bisq,bitsquare[IRC] Operator
+|TODO
+|{issues}/22[#22]
+|TODO
+
+|https://lists.bisq.network/pipermail/bisq-contrib/[Mailing List] Operator
+|{specs}/mailing-list-operator.adoc[mailing-list-operator.adoc]
+|{issues}/27[#26]
+|2000
+
+|https://markets.bisq.network[Markets] Operator/Maintainer
+|TODO
+|{issues}/9[#9]
+|TODO
+
+|{gh-org}/monitoring[Monitoring] Operator/Maintainer
+|TODO
+|{issues}/10[#10]
+|TODO
+
+|https://us9.campaign-archive.com/home/?u=fee3c64b1504e7835a98b0ed3&id=dc09b9ca64[Newsletter] Administrator
+|TODO
+|{issues}/27[#27]
+|2000
+
+|Payment Method Expert
+|TODO
+|{issues}/38[#38]
+|TODO
+
+|{gh-org}/pricenode[Pricenode] Maintainer
+|TODO
+|{issues}/5[#5]
+|5000
+
+|{gh-org}/pricenode[Pricenode] Operator
+|TODO
+|{issues}/14[#14]
+|TODO
+
+|{gh-org}/proposals[Proposals] Maintainer
+|TODO
+|{issues}/30[#30]
+|TODO
+
+|https://reddit.com/r/bisq[Reddit] Moderator
+|TODO
+|{issues}/25[#25]
+|1000
+
+|{gh-org}/roles[Roles] Maintainer
+|TODO
+|{issues}/28[#28]
+|TODO
+
+|{gh-org}/seednode[Seednode] Maintainer
+|TODO
+|{issues}/6[#6]
+|5000
+
+|{gh-org}/seednode[Seednode] Operator
+|TODO
+|{issues}/15[#15]
+|2000
+
+|https://bisq.network/slack-invite[Slack] Owner
+|TODO
+|{issues}/23[#23]
+|2000
+
+|{gh-org}/statistics[Statsnode] Maintainer
+|TODO
+|{issues}/7[#7]
+|TODO
+
+|https://telegram.me/bitsquare[Telegram] Administrator
+|TODO
+|{issues}/24[#24]
+|500
+
+|https://www.transifex.com/bitsquare/bitsquare/[Transifex] Administrator
+|TODO
+|{issues}/20[#20]
+|1000
+
+|https://twitter.com/bisq_network[Twitter] Operator
+|{specs}/twitter-operator.adoc[twitter-operator.adoc]
+|{issues}/21[#21]
+|2000
+
+|https://vimeo.com/getbitsquare[Vimeo] Administrator
+|TODO
+|{issues}/36[#36]
+|1000
+
+|https://bisq.network[Website] Operator/Maintainer
+|TODO
+|{issues}/12[#12]
+|TODO
+
+|===
