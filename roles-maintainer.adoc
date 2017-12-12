@@ -9,26 +9,27 @@ toc::[]
 
 == Purpose
 
-Provide a transparent overview about the purpose, motivation, privileges, requirements and responsibilities of all roles within the network. This will:
+Provide a transparent overview about the purpose, motivation, privileges, requirements and responsibilities of all roles within the Bisq Network. This will:
 
  - ensure clarity about ones own role
- - help identifying other roles 
+ - help understanding other roles 
  - facitilitate the compensation process
 
 
 == Motivation
 
-> TODO: _explain *why* this role exists. Why it is important to the Bisq network to fill this role in the first place._
+The growing Bisq Network requires a system of roles in order to distribute responsibilities within the DAO. Therefore it needs to define and ensure the integrity of the process of the creation, completion and maintenance of role specifications. These role specifications are also later utilized in the compensation system for bonded roles which can only apply for compensation with complete role specifications. 
+
 
 
 == Privileges
 
-> TODO: _list what special privileges this role has, e.g. passwords to certain service accounts, private keys or other secrets that no one else has access to_
+Admin access to the roles repository.
 
 
 == General Requirements
 
-> TODO: _specify what general requirements under the Bisq DAO this role must fulfill, including whether this is a bonded role, what kind of reporting should be done, etc._
+
 
 === Bonding
 
@@ -49,5 +50,12 @@ An example of this kind of report can be seen https://github.com/bisq-network/ro
 
 == Special Requirements
 
-> TODO: _specify what requirements this role must fulfill that are specific to the particular role. See other role specifications for examples._
+The roles maintainer must: 
+- conduct the initial setup and creation of roles specification
+- maintain the roles repository (including bonding requirements)
+- own the process of role specifications creation, completion and maintenance 
+- respond to notifications in slack
+- create issues in roles repository
+- review and merge proposed changes
+
 
