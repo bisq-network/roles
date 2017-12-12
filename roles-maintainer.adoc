@@ -3,7 +3,7 @@
 :toclevels: 4
 :toc-placement!:
 
-Issue: https://github.com/bisq-network/roles/issues/21
+Issue: https://github.com/bisq-network/roles/issues/28 
 
 toc::[]
 
