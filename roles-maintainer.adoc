@@ -44,8 +44,7 @@ An example of this kind of report can be seen https://github.com/bisq-network/ro
 
 === Collaboration
 
-> TODO: _specify any collaboration / communication channels this role should monitor, e.g. certain Slack channels_
-
+With `#compensation` Slack channel and the https://github.com/bisq-network/compensation[compensation repository] to ensure that assignees of bonded roles complete their role specification in order to be qualified for compensation.
 
 == Special Requirements
 
