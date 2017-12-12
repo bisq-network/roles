@@ -3,7 +3,7 @@
 :toclevels: 4
 :toc-placement!:
 
-Issue: https://github.com/bisq-network/roles/issues/21[bisq-network/roles#21
+Issue: https://github.com/bisq-network/roles/issues/21
 
 toc::[]
 
@@ -18,8 +18,7 @@ Provide a transparent overview about the purpose, motivation, privileges, requir
 
 == Motivation
 
-The growing Bisq Network requires a system of roles in order to distribute responsibilities within the DAO. Therefore it needs to define and ensure the integrity of the process of the creation, completion and maintenance of role specifications. These role specifications are also later utilized in the compensation system for bonded roles which can only apply for compensation with complete role specifications. 
-
+The growing Bisq Network requires a system of roles in order to distribute responsibilities within the DAO. Therefore it needs to define and ensure the integrity of the process of the creation, completion and maintenance of role specifications. These specifications are utilized as guidelines for one's own and a point of reference in the compensation process for bonded roles, which can only apply for compensation with complete role specifications. 
 
 
 == Privileges
