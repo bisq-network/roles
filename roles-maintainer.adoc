@@ -50,11 +50,12 @@ An example of this kind of report can be seen https://github.com/bisq-network/ro
 == Special Requirements
 
 The roles maintainer must: 
-- conduct the initial setup and creation of roles specification
-- maintain the roles repository (including bonding requirements)
-- own the process of role specifications creation, completion and maintenance 
-- respond to notifications in slack
-- create issues in roles repository
-- review and merge proposed changes
+
+ - conduct the initial setup and creation of roles specification
+ - maintain the roles repository (including bonding requirements)
+ - own the process of role specifications creation, completion and maintenance 
+ - respond to notifications in slack
+ - create issues in roles repository for transparency
+ - review and merge proposed changes
 
 
