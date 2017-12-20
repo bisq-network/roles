@@ -211,4 +211,9 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |TODO
 
+|YouTube Channel Owner
+|{issues}/56[#56]
+|TODO
+|TODO
+
 |===
