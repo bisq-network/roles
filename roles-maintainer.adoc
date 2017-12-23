@@ -23,7 +23,7 @@ The growing Bisq Network requires a system of roles in order to distribute respo
 
 == Privileges
 
-Admin access to the roles repository.
+Admin access to the roles repository at https://lists.bisq.network/roles.
 
 
 == General Requirements
@@ -37,10 +37,6 @@ This is a bonded contributor role. See the table at https://github.com/bisq-netw
 === Reporting
 
 The operator SHOULD post a monthly report in the form of a comment on the linked GitHub issue for this role.
-
-> TODO: _list below any specific details that should be included in monthly reports_
-
-An example of this kind of report can be seen https://github.com/bisq-network/roles/issues/21#issuecomment-348463070[here].
 
 === Collaboration
 
