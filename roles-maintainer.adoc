@@ -23,7 +23,7 @@ The growing Bisq Network requires a system of roles in order to distribute respo
 
 == Privileges
 
-Admin access to the roles repository at https://lists.bisq.network/roles.
+Admin access to the roles repository at https://github.com/bisq-network/roles.
 
 
 == General Requirements
