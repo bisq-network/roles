@@ -93,8 +93,8 @@ The owner of a given role is responsible for creating and maintaining their role
 
 |https://bisq.community[Forum] Operator
 |{issues}/19[#19]
-|TODO
-|TODO
+|{specs}/forum-operator.adoc[forum-operator.adoc]
+|TBD
 
 |Founder
 |{issues}/1[#1]

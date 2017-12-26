@@ -1,0 +1,44 @@
+= Forum operator
+:toc:
+:toclevels: 4
+:toc-placement!:
+
+Issue: https://github.com/bisq-network/roles/issues/19[bisq-network/roles#19]
+
+toc::[]
+
+== Purpose
+
+To maintain a forum suitable for support in using Bisq and other Bisq related discussions by users as well as members of the Bisq team.
+
+== Motivation
+
+In order to provide quality user experience and understanding of the software, the Bisq forum is maintained to allow users to help each other with issues they might be having with the software, as well as with general questions about it, including feedback and suggestions users and others might be having about Bisq. Bisq developers, arbitrators and other roles are also present on this forum to provide further assistance and information if needed.
+
+== Privileges
+
+The forum operator will have full administrative access to Discoruse forum, root access to server that hosts it, as well as the ownership of the domain of the forum.
+
+== General Requirements
+
+=== Bonding
+
+The operator MUST post a bond of **TBD** BSQ to assume this role.
+
+=== Reporting
+
+The operator SHOULD post a monthly report in the form of a comment on the linked GitHub issue for this role.
+
+=== Collaboration
+
+The operator MUST ensure that there is another person with access to the forum in case he is not available when emergency maintenance is needed.
+
+== Special Requirements
+
+The operator MUST:
+
+ - keep the Discourse installation up and running
+ - keep the Discourse installation up to date with latest patches
+ - keep the Discourse backups recent and secure
+ - respond promptly to any questions / requests in the #forum Slack channel (recommendation: set your Slack notification preferences for that channel to be notified on "all new messages" so you don’t miss anything)
+ - acknowledge / respond promptly to any issues submitted to the https://github.com/bisq-network/forum[bisq-network/forum] GitHub repository
