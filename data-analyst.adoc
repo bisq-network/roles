@@ -17,16 +17,38 @@ Based on a https://docs.google.com/spreadsheets/d/1o-I5fAx7DJRVqYjW8fPbo0ztlGIhI
 The analyst will have admininstrative access to the Google Analytics account of https://bisq.network[bisq.network], the https://docs.google.com/spreadsheets/d/1o-I5fAx7DJRVqYjW8fPbo0ztlGIhIZ1EM2iLc5aEHnA/edit?usp=sharing[Google reporting sheet] and https://piktochart.com[Piktochart account] for monthly reporting.
 
 == General Requirements
-The operator MUST:
 
- - post a bond of **TBD** BSQ to assume this role
- - maintain this role specification document
+=== Bonding
+The operator MUST post a bond of **TBC** BSQ to assume this role.
 
-== Special Requirements
+=== Reporting
+The operator SHOULD post a monthly report in the form of a comment on the linked GitHub issue for this role. The report SHOULD include (but is not limited to):
 
-The operator MUST:
+ - A recap of the most important statistics as a monthly infographic;
 
- - monitor the KPIs on a daily basis and report unusual behavior in the #analytics Slack channel
- - create a monthly infographic for the https://github.com/bisq-network/newsletter[bisq newsletter]
- - respond promptly to any questions / requests in the #analytics Slack channel (recommendation: set your Slack notification preferences for that channel to be notified on "all new messages" so you don’t miss anything)
- - acknowledge / respond promptly to any issues submitted to the https://github.com/bisq-network/analytics[bisq-network/analytics] GitHub repository
+An example of this kind of report can be seen https://github.com/bisq-network/roles/issues/40[here].
+
+=== Collaboration
+The operator MUST monitor the KPIs on a daily basis and report unusual behavior in the `#analytics` channel of the Bisq Slack team. The operator SHOULD raise and discuss this issues, so they can be resolved or at least documented for future improvements. Besides that the operator SHOULD respond promptly to any questions / requests in the `#analytics` channel (recommendation: set your Slack notification preferences for that channel to be notified on "all new messages" so you don’t miss anything). Additionally the operator SHOULD respond promptly to any issues submitted to the https://github.com/bisq-network/analytics[bisq-network/analytics] GitHub repository.
+
+=== Compensation
+The operator MUST issue monthly BSQ compensation requests to cover the cost of their labor. For convenience, such reports MAY be kept concise, simply linking to the current month's report (as per link:#reporting[Reporting] above).
+
+=== Automation
+The operator MAY automate the fulfillment of any of the requirements in this document, as they see fit, so long as such automation does not degrade the quality of content coming out of the account.
+
+Note that any efforts to automate the operation of the account SHOULD be submitted as a separate compensation request, i.e. SHOULD NOT be grouped in with the operator's usual monthly compensation requests as described in link:#compensation[Compensation] above.
+
+=== Delegation
+In case of extended absence not exceeding one month, the operator MAY delegate their responsibilities to another individual of their own choosing ("the delegate"). If the operator is unable to attend to their responsibilities during any such absence, then they MUST delegate their responsibilities as follows.
+
+The operator MUST mention that delegation is occurring, and for what duration, in a comment on this role's linked GitHub issue.
+
+The delegate MUST carefully read and adhere to all requirements in this document. Failure to fulfill requirements may result in the partial or complete confiscation of the operator's BSQ bonding.
+
+The delegate MAY issue a compensation request for their services rendered.
+
+=== Termination
+The account operator MAY terminate their participation in this role by giving notice at least one month in advance.
+
+Notice of termination MUST be given in a comment on this role's linked GitHub issue. The reason for this requirement is to ensure that other individuals interested in playing this role can subscribe to that GitHub issue and know that they will hear about it if and when the current operator decides to leave.
