@@ -121,7 +121,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |{specs}/mailman-operator.adoc[mailman-operator.adoc]
 |2000
 
-|https://markets.bisq.network[Markets] Operator/Maintainer
+|https://markets.bisq.network[Markets] Website+API Operator/Maintainer
 |{issues}/9[#9]
 |TODO
 |TODO
