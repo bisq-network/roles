@@ -21,12 +21,17 @@ The owner of a given role is responsible for creating and maintaining their role
 |===
 |Role |Issue |Specification |BSQ Bond
 
-|Bisq Ambassador
+|Ambassador
 |{issues}/35[#35]
 |TODO
 |TODO
 
-|Bitcoin Fullnode Operator
+|Arbitrator
+|{issues}/13[#13]
+|TODO
+|4000
+
+|Bitcoin Node Operator
 |{issues}/39[#39]
 |TODO
 |TODO
@@ -36,7 +41,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |5000
 
-|https://bitcointalk.org/index.php?topic=647457[BitcoinTalk] Moderator
+|https://bitcointalk.org/index.php?topic=647457[BitcoinTalk] Admin
 |{issues}/37[#37]
 |TODO
 |500
@@ -46,9 +51,9 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |TODO
 
-|{gh-org}/analytics[Data Analyst]
+|{gh-org}/analytics[Analytics] Maintainer
 |{issues}/40[#40]
-|{specs}/data-analyst.adoc[data-analyst.adoc]
+|{specs}/analytics-maintainer.adoc[analytics-maintainer.adoc]
 |TODO
 
 |{gh-org}[DAO] Maintainer
@@ -56,7 +61,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |5000
 
-|{gh-org}/dns[DNS] Operator
+|{gh-org}/dns[DNS] Admin
 |{issues}/18[#18]
 |TODO
 |20000
@@ -65,11 +70,6 @@ The owner of a given role is responsible for creating and maintaining their role
 |{issues}/29[#29]
 |TODO
 |TODO
-
-|{gh-org}/exchange[Exchange] Arbitrator
-|{issues}/13[#13]
-|TODO
-|4000
 
 |{gh-org}/exchange[Exchange] Maintainer
 |{issues}/3[#3]
@@ -81,7 +81,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |2000
 
-|https://www.facebook.com/bitsquareexchange/[Facebook Page] Moderator
+|https://www.facebook.com/bitsquareexchange/[Facebook] Admin
 |{issues}/48[#48]
 |TODO
 |TODO
@@ -96,7 +96,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |TODO
 
-|{gh-org}[GitHub Organization] Owner
+|{gh-org}[GitHub] Admin
 |{issues}/16[#16]
 |TODO
 |TODO
@@ -106,14 +106,14 @@ The owner of a given role is responsible for creating and maintaining their role
 |{specs}/growth-maintainer.adoc[growth-maintainer.adoc]
 |TODO
 
-|https://webchat.freenode.net/?channels=bisq,bitsquare[IRC] Operator
+|https://webchat.freenode.net/?channels=bisq,bitsquare[Freenode] Admin
 |{issues}/22[#22]
 |TODO
 |TODO
 
-|https://lists.bisq.network/pipermail/bisq-contrib/[Mailing List] Operator
+|https://lists.bisq.network/pipermail/bisq-contrib/[Mailman] Operator
 |{issues}/27[#26]
-|{specs}/mailing-list-operator.adoc[mailing-list-operator.adoc]
+|{specs}/mailman-operator.adoc[mailman-operator.adoc]
 |2000
 
 |https://markets.bisq.network[Markets] Operator/Maintainer
@@ -126,7 +126,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |TODO
 
-|https://us9.campaign-archive.com/home/?u=fee3c64b1504e7835a98b0ed3&id=dc09b9ca64[Newsletter] Administrator
+|https://us9.campaign-archive.com/home/?u=fee3c64b1504e7835a98b0ed3&id=dc09b9ca64[Mailchimp] Admin
 |{issues}/27[#27]
 |TODO
 |2000
@@ -151,7 +151,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |TODO
 
-|https://reddit.com/r/bisq[Reddit] Moderator
+|https://reddit.com/r/bisq[Reddit] Admin
 |{issues}/25[#25]
 |TODO
 |1000
@@ -171,7 +171,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |2000
 
-|https://bisq.network/slack-invite[Slack] Owner
+|https://bisq.network/slack-invite[Slack] Admin
 |{issues}/23[#23]
 |TODO
 |2000
@@ -181,22 +181,22 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |TODO
 
-|https://telegram.me/bitsquare[Telegram] Administrator
+|https://telegram.me/bitsquare[Telegram] Admin
 |{issues}/24[#24]
 |TODO
 |500
 
-|https://www.transifex.com/bitsquare/bitsquare/[Transifex] Administrator
+|https://www.transifex.com/bitsquare/bitsquare/[Transifex] Admin
 |{issues}/20[#20]
 |TODO
 |1000
 
-|https://twitter.com/bisq_network[Twitter] Operator
+|https://twitter.com/bisq_network[Twitter] Admin
 |{issues}/21[#21]
-|{specs}/twitter-operator.adoc[twitter-operator.adoc]
+|{specs}/twitter-admin.adoc[twitter-admin.adoc]
 |2000
 
-|https://vimeo.com/getbitsquare[Vimeo] Administrator
+|https://vimeo.com/getbitsquare[Vimeo] Admin
 |{issues}/36[#36]
 |TODO
 |1000
@@ -206,7 +206,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |TODO
 
-|YouTube Channel Owner
+|YouTube Admin
 |{issues}/56[#56]
 |TODO
 |TODO
