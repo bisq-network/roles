@@ -5,7 +5,7 @@
 
 This repository provides complete information about all roles within the Bisq DAO. It provides the reader with details about the purpose, motivation, privileges, requirements and responsibilities of all roles. This ensures clarity about one's own role, helps in understanding other roles and facilitates the compensation process.
 
-The owner of a given role is responsible for creating and maintaining their role specification as an AsciiDoc file here in this repository. Each role also has a dedicated GitHub issue in this repository, where ownership of a given role is tracked by issue assignment. Owners issue periodic (usually monthly) reports as issues on their role issue.
+The owner of a given role is responsible for creating and maintaining their role specification as an AsciiDoc file here in this repository. Each role also has a dedicated GitHub issue in this repository, where ownership of a given role is tracked by issue assignment. Owners issue periodic (usually monthly) reports in the form of comments on their role issue.
 
 == How to Create a New Role
 
