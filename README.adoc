@@ -41,11 +41,6 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |500
 
-|BSQ Record Keeper
-|{issues}/33[#33]
-|TODO
-|TODO
-
 |{gh-org}/compensation[Compensation] Maintainer
 |{issues}/31[#31]
 |TODO
