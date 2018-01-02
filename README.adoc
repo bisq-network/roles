@@ -96,6 +96,11 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |TODO
 
+|https://webchat.freenode.net/?channels=bisq,bitsquare[Freenode] Admin
+|{issues}/22[#22]
+|TODO
+|TODO
+
 |{gh-org}[GitHub] Admin
 |{issues}/16[#16]
 |TODO
@@ -104,11 +109,6 @@ The owner of a given role is responsible for creating and maintaining their role
 |{gh-org}/growth[Growth] Maintainer
 |{issues}/42[#42]
 |{specs}/growth-maintainer.adoc[growth-maintainer.adoc]
-|TODO
-
-|https://webchat.freenode.net/?channels=bisq,bitsquare[Freenode] Admin
-|{issues}/22[#22]
-|TODO
 |TODO
 
 |https://lists.bisq.network/pipermail/bisq-contrib/[Mailman] Operator
