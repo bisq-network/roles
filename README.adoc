@@ -111,6 +111,11 @@ The owner of a given role is responsible for creating and maintaining their role
 |{specs}/growth-maintainer.adoc[growth-maintainer.adoc]
 |TODO
 
+|[Keybase Admin
+|{issues}/60[#60]
+|TODO
+|TODO
+
 |https://lists.bisq.network/pipermail/bisq-contrib/[Mailman] Operator
 |{issues}/27[#26]
 |{specs}/mailman-operator.adoc[mailman-operator.adoc]
