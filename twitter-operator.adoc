@@ -11,16 +11,16 @@ toc::[]
 
 To provide a single, authoritative and trustworthy https://twitter.com/bisq_network[@bisq_network] Twitter account that anyone can:
 
- - follow, to stay up to date with bisq;
- - @mention, to reference bisq in conversation with others;
- - @mention, to ask questions about bisq and provide feedback
+ - follow, to stay up to date with Bisq;
+ - @mention, to reference Bisq in conversation with others;
+ - @mention, to ask questions about Bisq and provide feedback
 
 
 == Motivation
 
-Twitter is an important communication channel and news source for many people in bisq's larger community. Most bisq contributors operate personal Twitter accounts, but no one bisq contributor should, by default, maintain control over the official @bisq_network account. This document specifies the requirements for assuming the role of @bisq_network Twitter account operator, such that (a) potentially any contributor can fulfill the requirements with minimal time and effort, and (b) account followers get consistent, valuable from it.
+Twitter is an important communication channel and news source for many people in Bisq's larger community. Most Bisq contributors operate personal Twitter accounts, but no one Bisq contributor should, by default, maintain control over the official @bisq_network account. This document specifies the requirements for assuming the role of @bisq_network Twitter account operator, such that (a) potentially any contributor can fulfill the requirements with minimal time and effort, and (b) account followers get consistent, valuable from it.
 
-In general, the idea is that announcements, observations and opinions about the bisq network should come from contributors' own personal Twitter accounts, and that the primary role of the @bisq_network account is to follow these contributors and 'curate' their content by liking and retweeting it. This principle is expanded upon in various sections below.
+In general, the idea is that announcements, observations and opinions about the Bisq network should come from contributors' own personal Twitter accounts, and that the primary role of the @bisq_network account is to follow these contributors and 'curate' their content by liking and retweeting it. This principle is expanded upon in various sections below.
 
 
 == Privileges
@@ -43,7 +43,7 @@ The operator SHOULD post a monthly report in the form of a comment on the linked
 An example of this kind of report can be seen https://github.com/bisq-network/roles/issues/21#issuecomment-348463070[here].
 
 === Collaboration
-All tweets to and from the account are posted in the `#twitter` channel of the bisq Slack team. The operator SHOULD discuss tweets with other contributors in this channel, especially when in doubt whether or how to respond. If necessary, the operator MAY escalate specific tweets to specific contributors by reaching out to them directly. In any case, the operator SHOULD use their discretion in collaborating or escalating tweets in whatever way they see fit, so as to ensure an accurate and timely response to questions or comments about bisq on Twitter.
+All tweets to and from the account are posted in the `#twitter` channel of the Bisq Slack team. The operator SHOULD discuss tweets with other contributors in this channel, especially when in doubt whether or how to respond. If necessary, the operator MAY escalate specific tweets to specific contributors by reaching out to them directly. In any case, the operator SHOULD use their discretion in collaborating or escalating tweets in whatever way they see fit, so as to ensure an accurate and timely response to questions or comments about Bisq on Twitter.
 
 === Compensation
 The operator MUST issue monthly BSQ compensation requests to cover the cost of their labor. For convenience, such reports MAY be kept concise, simply linking to the current month's report (as per link:#reporting[Reporting] above).
@@ -80,24 +80,24 @@ a.k.a. "direct messages" or "DMs"
 Pending further discussion, the account SHOULD NOT send any direct messages.
 
 ==== Receiving DMs
-Because the account only follows bisq contributors (see link:#following[Following] below), it is unlikely that the account will receive any direct messages at all. In the event that direct messages are received, the account SHOULD reply as the operator sees fit, providing that the reply is factual in nature, and not an expression of the operator's personal opinion or views.
+Because the account only follows Bisq contributors (see link:#following[Following] below), it is unlikely that the account will receive any direct messages at all. In the event that direct messages are received, the account SHOULD reply as the operator sees fit, providing that the reply is factual in nature, and not an expression of the operator's personal opinion or views.
 
 === Tweets
-The account SHOULD NOT tweet anything on its own. The logic behind this requirement is simple: the bisq network is not a person; it has no opinions of its own and it cannot make observations of its own; therefore it has nothing to tweet about. What the account SHOULD do is monitor bisq contributors' Twitter activity and retweet their bisq-related tweets (see link:#retweets[Retweets]); it MAY also reply to and like certain tweets (see link:#replies[Replies] and link:#likes[Likes]).
+The account SHOULD NOT tweet anything on its own. The logic behind this requirement is simple: the Bisq network is not a person; it has no opinions of its own and it cannot make observations of its own; therefore it has nothing to tweet about. What the account SHOULD do is monitor Bisq contributors' Twitter activity and retweet their Bisq-related tweets (see link:#retweets[Retweets]); it MAY also reply to and like certain tweets (see link:#replies[Replies] and link:#likes[Likes]).
 
 === Retweets
-The account SHOULD retweet bisq-related tweets from the people it follows, subject to the discretion of the account operator. Contributor tweets should not be "mechanistically" retweeted, but rather curated to avoid the account becoming repetitive or noisy, and to avoid retweeting negative or otherwise unproductive content.
+The account SHOULD retweet Bisq-related tweets from the people it follows, subject to the discretion of the account operator. Contributor tweets should not be "mechanistically" retweeted, but rather curated to avoid the account becoming repetitive or noisy, and to avoid retweeting negative or otherwise unproductive content.
 
-The account MUST retweet release announcements made by bisq network repository maintainers as soon as possible, and preferably immediately, but in any case within 24 hours.
+The account MUST retweet release announcements made by Bisq network repository maintainers as soon as possible, and preferably immediately, but in any case within 24 hours.
 
 === Replies
-The account SHOULD reply to tweets that ask @bisq_network a direct question. When feasible, the reply SHOULD contain the answer to the question being asked, but the reply MAY also simply redirect the questioner to a more appropriate venue, e.g. the bisq forum or a particular bisq repository's GitHub issues.
+The account SHOULD reply to tweets that ask @bisq_network a direct question. When feasible, the reply SHOULD contain the answer to the question being asked, but the reply MAY also simply redirect the questioner to a more appropriate venue, e.g. the Bisq forum or a particular Bisq repository's GitHub issues.
 
 The account MAY reply to tweets mentioning @bisq_network, if the operator believes that the most effective action would be to tweet a reply directly from the @bisq_network account.
 
 The account SHOULD reply to tweets mentioning @bisq_network in order to correct objective inaccuracies.
 
-The account SHOULD NOT engage in extended Twitter conversations and MUST NOT engage in contentious debate or argument. If extended conversation or "defense" of bisq is necessary, the account should let individual contributors engage from their own personal Twitter accounts.
+The account SHOULD NOT engage in extended Twitter conversations and MUST NOT engage in contentious debate or argument. If extended conversation or "defense" of Bisq is necessary, the account should let individual contributors engage from their own personal Twitter accounts.
 
 === Quotes
 The account MAY quote tweets if it is deemed by the account operator to be a more effective technique than retweeting or replying alone.
@@ -105,7 +105,7 @@ The account MAY quote tweets if it is deemed by the account operator to be a mor
 Quoting MUST NOT be used to express the operator's personal opinions or observations (for the same reasons detailed in 'Tweeting' above), but MAY be used to express facts about the project.
 
 === Following
-The account MUST follow current bisq network contributors. A current contributor is anyone who has had a compensation request accepted in the preceding 3 months UNLESS the contributor (a) does not have a Twitter account, or (b) indicates they do not wish to be followed (see below).
+The account MUST follow current Bisq network contributors. A current contributor is anyone who has had a compensation request accepted in the preceding 3 months UNLESS the contributor (a) does not have a Twitter account, or (b) indicates they do not wish to be followed (see below).
 
 The account MAY follow any number of alumni contributors. An alumni contributor is anyone who has had a compensation request accepted in the past, but who has not had a request accepted in the last 3 months. The specific set of alumni contributors that is followed is left to the operator's discretion.
 
@@ -128,10 +128,10 @@ Pending further discussion, the account SHOULD NOT create or maintain any Lists.
 The account username MUST remain "@bisq_network".
 
 ==== Name
-The name MUST be "bisq" and MUST NOT be amended to promote certain views, e.g. `[UASF]` or `[NO2X]` as is often done in the larger bitcoin/crypto community.
+The name MUST be "Bisq" and MUST NOT be amended to promote certain views, e.g. `[UASF]` or `[NO2X]` as is often done in the larger bitcoin/crypto community.
 
 ==== Profile photo
-The profile photo MUST remain the official "bisq cat" image.
+The profile photo MUST remain the official "Bisq cat" image.
 
 ==== Header image
 The header image MAY be changed at the operator's discretion, but the operator SHOULD discuss any such changes with a quorum of other contributors first to ensure rough consensus if the image is changing significantly.
@@ -149,7 +149,7 @@ The birthday field SHOULD be left blank.
 The website field MUST be set to `https://bisq.network`.
 
 === Verification
-The @bisq_network account is not and CAN NOT become a verified account. Per https://support.twitter.com/articles/20174631[Twitter's verification documentation], verifying organization or company accounts require "an organization or company email address". The bisq network is not a company or traditional organization and as such has no "organization email addresses".
+The @bisq_network account is not and CAN NOT become a verified account. Per https://support.twitter.com/articles/20174631[Twitter's verification documentation], verifying organization or company accounts require "an organization or company email address". The Bisq network is not a company or traditional organization and as such has no "organization email addresses".
 
 === Ads
 The acccount SHALL NOT purchase any Twitter ads.
