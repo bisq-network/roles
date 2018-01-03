@@ -181,11 +181,6 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |2000
 
-|{gh-org}/exchange/tree/master/statistics[Statsnode] Maintainer
-|{issues}/7[#7]
-|TODO
-|TODO
-
 |https://telegram.me/bitsquare[Telegram] Admin
 |{issues}/24[#24]
 |TODO
