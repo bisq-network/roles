@@ -7,7 +7,47 @@ Issue: https://github.com/bisq-network/roles/issues/42
 
 toc::[]
 
- - has admin access to https://github.com/bisq-network/growth repository
- - must get and respond to notifications in the #growth Slack channel in a timely fashion
- - must manage issues in the growth repository, organize ideas and experiments, facilitate team calls, etc
- - should do monthly reporting as comments on role issue 
+== Purpose
+To foster growth of the Bisq network in a structured and sustainable way.
+
+== Motivation
+Based on discussions on Slack we've decided that it might make sense to capture ideas on how to grow Bisq in one place. This resulted in a process on how to collect ideas, how to test them and how to exchange the learnings with everyone.
+
+== Privileges
+The maintainer will have admin access to the https://github.com/bisq-network/growth[Growth repository].
+
+== General Requirements
+
+=== Bonding
+The operator MUST post a bond of **TBC** BSQ to assume this role.
+
+=== Reporting
+The operator SHOULD post a monthly report in the form of a comment on the linked GitHub issue for this role. The report SHOULD include (but is not limited to):
+
+ - A recap of the experiments from last month;
+ - The number of growth meetings moderated;
+
+=== Collaboration
+The maintainer SHOULD respond promptly to any questions / requests in the `#growth` channel (recommendation: set your Slack notification preferences for that channel to be notified on "all new messages" so you don’t miss anything). The maintainer SHOULD respond promptly to any issues submitted to the https://github.com/bisq-network/analytics[bisq-network/growth] GitHub repository. Additionally the maintainer MUST organize the weekly growth meetings to keep momentum.
+
+=== Compensation
+The maintainer MUST issue monthly BSQ compensation requests to cover the cost of their labor. For convenience, such reports MAY be kept concise, simply linking to the current month's report (as per link:#reporting[Reporting] above).
+
+=== Automation
+The maintainer MAY automate the fulfillment of any of the requirements in this document, as they see fit, so long as such automation does not degrade the quality of content coming out of the account.
+
+Note that any efforts to automate the operation of the account SHOULD be submitted as a separate compensation request, i.e. SHOULD NOT be grouped in with the maintainer's usual monthly compensation requests as described in link:#compensation[Compensation] above.
+
+=== Delegation
+In case of extended absence not exceeding one month, the maintainer MAY delegate their responsibilities to another individual of their own choosing ("the delegate"). If the maintainer is unable to attend to their responsibilities during any such absence, then they MUST delegate their responsibilities as follows.
+
+The maintainer MUST mention that delegation is occurring, and for what duration, in a comment on this role's linked GitHub issue.
+
+The delegate MUST carefully read and adhere to all requirements in this document. Failure to fulfill requirements may result in the partial or complete confiscation of the operator's BSQ bonding.
+
+The delegate MAY issue a compensation request for their services rendered.
+
+=== Termination
+The account maintainer MAY terminate their participation in this role by giving notice at least one month in advance.
+
+Notice of termination MUST be given in a comment on this role's linked GitHub issue. The reason for this requirement is to ensure that other individuals interested in playing this role can subscribe to that GitHub issue and know that they will hear about it if and when the current maintainer decides to leave.
