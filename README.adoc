@@ -131,7 +131,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |TODO
 
-|https://us9.campaign-archive.com/home/?u=fee3c64b1504e7835a98b0ed3&id=dc09b9ca64[Mailchimp] Admin
+|https://us9.campaign-archive.com/home/?u=fee3c64b1504e7835a98b0ed3&id=dc09b9ca64[Newsletter] Editor
 |{issues}/27[#27]
 |TODO
 |2000
