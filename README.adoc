@@ -31,7 +31,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |4000
 
-|Bitcoin Node Operator
+|{gh-org}/fullnode[Bitcoin Node] Operator
 |{issues}/39[#39]
 |TODO
 |TODO
