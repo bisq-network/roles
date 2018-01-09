@@ -176,6 +176,11 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |2000
 
+|{gh-org}/support[Support] Staff
+|{issues}/27[#27]
+|TODO
+|TODO
+
 |https://telegram.me/bitsquare[Telegram] Admin
 |{issues}/24[#24]
 |TODO
