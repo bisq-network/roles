@@ -71,6 +71,11 @@ The owner of a given role is responsible for creating and maintaining their role
 |TODO
 |TODO
 
+|{gh-org}/exchange[Events] Maintainer
+|{issues}/65[#65]
+|TODO
+|TODO
+
 |{gh-org}/exchange[Exchange] Maintainer
 |{issues}/3[#3]
 |TODO
