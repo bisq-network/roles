@@ -97,7 +97,7 @@ The owner of a given role is responsible for creating and maintaining their role
 |{issues}/48[#48]
 |TODO
 |TODO
-|https://www.facebook.com/bitsquareexchange/[Facebook]
+|https://www.facebook.com/bisqnetwork/[Facebook]
 
 |Forum Operator
 |{issues}/19[#19]
