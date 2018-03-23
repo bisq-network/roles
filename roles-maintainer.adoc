@@ -1,0 +1,56 @@
+= Roles Maintainer
+:toc:
+:toclevels: 4
+:toc-placement!:
+
+Issue: https://github.com/bisq-network/roles/issues/28 
+
+toc::[]
+
+== Purpose
+
+Provide a transparent overview about the purpose, motivation, privileges, requirements and responsibilities of all roles within the Bisq Network. This will:
+
+ - ensure clarity about ones own role
+ - help understanding other roles 
+ - facitilitate the compensation process
+
+
+== Motivation
+
+The growing Bisq Network requires a system of roles in order to distribute responsibilities within the DAO. Therefore it needs to define and ensure the integrity of the process of the creation, completion and maintenance of role specifications. These specifications are utilized as guidelines for one's own and a point of reference in the compensation process for bonded roles, which can only apply for compensation with complete role specifications. 
+
+
+== Privileges
+
+Admin access to the roles repository at https://github.com/bisq-network/roles.
+
+
+== General Requirements
+
+
+
+=== Bonding
+
+This is a bonded contributor role. See the table at https://github.com/bisq-network/roles#readme[bisq-network/roles#readme] for details on the specific bonding amount.
+
+=== Reporting
+
+The operator SHOULD post a monthly report in the form of a comment on the linked GitHub issue for this role.
+
+=== Collaboration
+
+With `#compensation` Slack channel and the https://github.com/bisq-network/compensation[compensation repository] to ensure that assignees of bonded roles complete their role specification in order to be qualified for compensation.
+
+== Special Requirements
+
+The roles maintainer must: 
+
+ - conduct the initial setup and creation of roles specification
+ - maintain the roles repository (including bonding requirements)
+ - own the process of role specifications creation, completion and maintenance 
+ - respond to notifications in slack
+ - create issues in roles repository for transparency
+ - review and merge proposed changes
+
+
