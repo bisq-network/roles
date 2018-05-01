@@ -1,0 +1,48 @@
+= Bitcointalk Bisq Thread Operator
+:toc:
+:toclevels: 4
+:toc-placement!:
+
+Issue: https://github.com/bisq-network/roles/issues/37
+
+toc::[]
+
+== Purpose
+
+> _explain *what* this role is for. See other role specifications for examples._
+
+
+== Motivation
+
+> TODO: _explain *why* this role exists. Why it is important to the Bisq network to fill this role in the first place._
+
+
+== Privileges
+
+> TODO: _list what special privileges this role has, e.g. passwords to certain service accounts, private keys or other secrets that no one else has access to_
+
+
+== General Requirements
+
+> TODO: _specify what general requirements under the Bisq DAO this role must fulfill, including whether this is a bonded role, what kind of reporting should be done, etc._
+
+=== Bonding
+
+This is a bonded contributor role. See the table at https://github.com/bisq-network/roles#readme[bisq-network/roles#readme] for details on the specific bonding amount.
+
+=== Reporting
+
+The operator SHOULD post a monthly report in the form of a comment on the linked GitHub issue for this role.
+
+> TODO: _list below any specific details that should be included in monthly reports_
+
+An example of this kind of report can be seen https://github.com/bisq-network/roles/issues/21#issuecomment-348463070[here].
+
+=== Collaboration
+
+> TODO: _specify any collaboration / communication channels this role should monitor, e.g. certain Slack channels_
+
+
+== Special Requirements
+
+> TODO: _specify what requirements this role must fulfill that are specific to the particular role. See other role specifications for examples._
