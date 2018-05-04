@@ -206,11 +206,6 @@ The owner of a given role is responsible for creating and maintaining their role
 |{specs}/twitter-admin.adoc[twitter-admin.adoc]
 |2000
 
-|https://vimeo.com/getbitsquare[Vimeo] Admin
-|{issues}/36[#36]
-|TODO
-|1000
-
 |https://bisq.network[Website] Operator/Maintainer
 |{issues}/12[#12]
 |TODO
