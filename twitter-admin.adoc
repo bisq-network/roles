@@ -107,7 +107,7 @@ The website field MUST be set to `https://bisq.network`.
 The @bisq_network account is not and CAN NOT become a verified account. Per https://support.twitter.com/articles/20174631[Twitter's verification documentation], verifying organization or company accounts require "an organization or company email address". The Bisq network is not a company or traditional organization and as such has no "organization email addresses".
 
 === Ads
-The acccount SHALL NOT purchase any Twitter ads or otherwise 'promote' tweets.
+The account SHALL NOT purchase any Twitter ads or otherwise 'promote' tweets.
 
 === Analytics
 See link:#reporting[Reporting] above.

@@ -13,7 +13,7 @@ To maintain a mailing list suitable for discussions about Bisq development and o
 
 == Motivation
 
-The old https://groups.google.com/forum/#!forum/bitsquare[Bitsquare Google Group] has fallen out of use. This is partially due to the fact that we set up a Mailchimp-based newsletter later on in the project, and the purpose of the Google Group became unclear afterwards. Our motivation here is to replace the Google Group with a our own GNU Mailman instance at https://lists.bisq.network, and to use it to manage a clearly-defined _contributors_ mailing list. Mailman is well-understood and well-liked by free software contributors, and so we assume it will be a good fit for Bisq contributors going forward. The Mailchimp-based newsletter will stick around, as it is an idiomatic way to stay in touch with Bisq's not necessarily technical users.
+The old https://groups.google.com/forum/#!forum/bitsquare[Bitsquare Google Group] has fallen out of use. This is partially due to the fact that we set up a Mailchimp-based newsletter later on in the project, and the purpose of the Google Group became unclear afterwards. Our motivation here is to replace the Google Group with our own GNU Mailman instance at https://lists.bisq.network, and to use it to manage a clearly-defined _contributors_ mailing list. Mailman is well-understood and well-liked by free software contributors, and so we assume it will be a good fit for Bisq contributors going forward. The Mailchimp-based newsletter will stick around, as it is an idiomatic way to stay in touch with Bisq's not necessarily technical users.
 
 == Privileges
 
