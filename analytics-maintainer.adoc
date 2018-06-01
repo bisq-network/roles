@@ -14,7 +14,7 @@ To provide a single, authoritative and trustworthy source for all data that is c
 Based on a https://docs.google.com/spreadsheets/d/1o-I5fAx7DJRVqYjW8fPbo0ztlGIhIZ1EM2iLc5aEHnA/edit?usp=sharing[reporting sheet] by https://github.com/ripcurlx[@ripcurlx], we found out that the current numbers visualized by https://coin.dance/volume/bisq[coin.dance] and communicated by us were even better than we thought. This was the kickstarter to define and collect our most important metrics (KPIs) in a single place.
 
 == Privileges
-The analyst will have admininstrative access to the Google Analytics account of https://bisq.network[bisq.network], the https://docs.google.com/spreadsheets/d/1o-I5fAx7DJRVqYjW8fPbo0ztlGIhIZ1EM2iLc5aEHnA/edit?usp=sharing[Google reporting sheet] and https://piktochart.com[Piktochart account] for monthly reporting.
+The analyst will have administrative access to the Google Analytics account of https://bisq.network[bisq.network], the https://docs.google.com/spreadsheets/d/1o-I5fAx7DJRVqYjW8fPbo0ztlGIhIZ1EM2iLc5aEHnA/edit?usp=sharing[Google reporting sheet] and https://piktochart.com[Piktochart account] for monthly reporting.
 
 == General Requirements
 The operator MUST:

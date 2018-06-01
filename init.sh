@@ -1,6 +1,6 @@
 # Create repository
 git init
-hub create bisq-network/roles -d"Roles played by bisq network contributors"
+hub create bisq-network/roles -d"Roles played by Bisq network contributors"
 
 # Set up integrations
 echo "Set up Slack integration and press enter when complete"
