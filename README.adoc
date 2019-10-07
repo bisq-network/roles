@@ -2,4 +2,6 @@
 
 The issues in this repository track specific _roles_ within the Bisq DAO, including who owns each role, and they provide a space for those role owners to write monthly reports in the form of comments on their respective issues.
 
+**Proposals for new roles go in the https://github.com/bisq-network/proposals[proposals repository].** Please do not open a new issue for roles that haven't been approved yet. If you're assuming a role that was just approved, please reach out to the roles maintainer for advice on how to open the new role issue and establish pertinent documentation.
+
 See https://docs.bisq.network/roles.html for complete documentation.
